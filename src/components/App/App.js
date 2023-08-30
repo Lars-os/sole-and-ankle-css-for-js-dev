@@ -19,6 +19,8 @@ const App = () => {
 
 const Main = styled.main`
   padding: 64px 32px;
+  display: flex;
+  flex-direction: column;
 `;
 
 export default App;
