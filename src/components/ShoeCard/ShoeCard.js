@@ -55,7 +55,6 @@ const Link = styled.a`
   color: inherit;
   
   flex: 1 1 340px;
-  margin: 16px;
 `;
 
 const Wrapper = styled.article`
@@ -67,6 +66,7 @@ const ImageWrapper = styled.div`
 
 const Image = styled.img`
   width: 100%;
+  display: block
 `;
 
 const Row = styled.div`
